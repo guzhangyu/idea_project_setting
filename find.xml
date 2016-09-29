@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/guzy/Downloads/erp-party3/pom.xml'" />
+    <option name="defaultScopeName" value="File '/Users/guzy/Downloads/erp-party3/pom.xml'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/guzy/Downloads/erp-party3/pom.xml'" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.properties</mask>
+      <mask>*.js</mask>
+      <mask>spring-ec.xml</mask>
+      <mask>*.xml</mask>
+      <mask>pom.xml</mask>
+      <mask>*.*</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
